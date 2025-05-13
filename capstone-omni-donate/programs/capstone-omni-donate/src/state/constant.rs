@@ -1,0 +1,3 @@
+
+
+pub const MAX_CAMPAIGN_CONDITIONS: u8 = 5;
